@@ -2,7 +2,7 @@ package com.kedar.gitdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-// test feature 1
+// test feature 1, feature 1 bug fix
 // test feature 2
 @SpringBootApplication
 public class GitdemoApplication {
@@ -12,3 +12,4 @@ public class GitdemoApplication {
 	}
 
 }
+
