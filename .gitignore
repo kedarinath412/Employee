@@ -1,0 +1,15 @@
+# Ignore build output
+target/
+
+# Ignore logs
+*.log
+
+# Ignore IDE files
+.idea/
+*.iml
+mvnw.cmd
+mvnw
+.gitattributes
+.mvn
+gitdemo.iml
+HELP.md
